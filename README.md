@@ -52,4 +52,4 @@ by a PR so other fellow can try it.
 
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
-|     |           |      |             |       |
+|720162 |  Salomé Rea| [report](https://github.com/SalomeReav/lab6-microservices/blob/test/report.md)  |             |       |
